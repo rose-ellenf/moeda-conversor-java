@@ -34,6 +34,6 @@ Digite o valor que deseja converter: 100
 ## 🤝 Contribuições
 Contribuições são bem-vindas! Se você tem alguma sugestão ou correção, fique à vontade para abrir uma "issue" ou um "pull request" 🔄.
 
-## Desenvolvedor: Rose Ellen Favacho 👩‍💻
+
 
 
